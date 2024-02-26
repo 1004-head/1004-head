@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicetauren&layout=compact&theme=neon&langs_count=6" />
-  </a> <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicetauren&show_icons=true&theme=neon&hide=issues" />
-  </a> <br/> 
+    </a></span>
+  <span><a href="https://github.com/anuraghazra/github-readme-stats" target='_blank'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicetauren&show_icons=true&theme=neon&hide=issues&line_height=24&include_all_commits=True" />
+    </a></span>
 </p>
