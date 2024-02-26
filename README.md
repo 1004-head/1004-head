@@ -23,3 +23,5 @@ Here are some ideas to get you started:
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicetauren&layout=compact&theme=neon&langs_count=6&hide_border=True&card_width=260" />
   </a></span>
 </p>
+
+![snake gif](https://github.com/nicetauren/nicetauren/blob/output/github-contribution-grid-snake.svg)
