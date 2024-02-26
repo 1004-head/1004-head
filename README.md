@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   </a></span>
 </p>
 
-<img src="https://github.com/nicetauren/nicetauren/blob/output/github-contribution-grid-snake.svg"/>
+![snake gif](https://github.com/nicetauren/nicetauren/blob/output/github-contribution-grid-snake.svg)
