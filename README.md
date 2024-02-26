@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicetauren&layout=compact&theme=neon" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicetauren&layout=compact&theme=neon&langs_count=6" />
   </a> <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicetauren&show_icons=true&theme=neon" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicetauren&show_icons=true&theme=neon&hide=issues" />
   </a> <br/> 
 </p>
